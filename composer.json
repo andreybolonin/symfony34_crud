@@ -3,10 +3,16 @@
     "license": "proprietary",
     "require": {
         "php": "^7.0.8",
+        "doctrine/doctrine-bundle": "^1.8",
+        "doctrine/orm": "^2.5",
+        "sensio/framework-extra-bundle": "^5.1",
         "symfony/console": "^3.4",
+        "symfony/debug-bundle": "^3.4",
         "symfony/flex": "^1.0",
         "symfony/framework-bundle": "^3.4",
         "symfony/lts": "^3",
+        "symfony/twig-bundle": "^3.4",
+        "symfony/web-server-bundle": "^3.4",
         "symfony/yaml": "^3.4"
     },
     "require-dev": {
